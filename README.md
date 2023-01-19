@@ -1,12 +1,11 @@
-### Olá!!!  Eu sou o Luiz Henrique
+### Olá!!!  Eu sou Luiz Henrique
 
 - 🔭 Atualmente estudo front-end
-- 🌱 Estudando Python
-- 😁 Estudando inglês
+- 🌱 Estudando Python 
+- 😁 Cursando inglês CCAA
 
 
 <h2 >Linguagens que eu utilizo e aprendo :</h2>
-
 
 
 
@@ -21,7 +20,7 @@
   
   ##
   
-  <h2> Contato</h2>
+  <h2> Contato </h2>
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
