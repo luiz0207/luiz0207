@@ -1,11 +1,12 @@
-### Olá!!!  Eu sou Luiz Henrique
+### Hello!!!  I'm Luiz Henrique
 
-- 🔭 Atualmente estudo front-end
-- 🌱 Estudando Python para análise de dados
-- 😁 Cursando inglês CCAA
+- 🔭 Currently front-end study
+- 🌱 Studying Python for Data Analysis
+- 😁 Studying English CCAA
+                                                               Talking with me:
+                                                               Gmail: luizdevscrispim.0207@gmail.com
 
-
-<h2 >Linguagens que eu utilizo e aprendo :</h2>
+<h2 >Languages I use and learn:</h2>
 
 
 <div style="display: inline_block"><br>
@@ -19,7 +20,7 @@
   
   ##
   
-  <h2> Contato </h2>
+  <h2> Contact </h2>
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
