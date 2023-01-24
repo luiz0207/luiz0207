@@ -3,6 +3,8 @@
 - 🔭 Currently front-end study
 - 🌱 Studying Python for Data Analysis
 - 😁 Studying English CCAA
+-
+
                                                                Talking with me:
                                                                Gmail: luizdevscrispim.0207@gmail.com
 
