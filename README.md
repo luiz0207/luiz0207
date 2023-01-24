@@ -1,7 +1,7 @@
 ### Olá!!!  Eu sou Luiz Henrique
 
 - 🔭 Atualmente estudo front-end
-- 🌱 Estudando Python 
+- 🌱 Estudando Python para análise de dados
 - 😁 Cursando inglês CCAA
 
 
