@@ -6,7 +6,7 @@
 
 
       Talking with me:
-      Gmail: luizdevscrispim.0207@gmail.com                                                   
+      Email: luizdevscrispim.0207@gmail.com                                                   
 
 <h2 >Languages I use and learn:</h2>
 
